@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.2512raju.online # submit your host
+REDIS_HOST: redis.2512raju.online
+MYSQL_HOST: mysql.2512raju.online
+RABBITMQ_HOST: rabbitmq.2512raju.online
+CATALOGUE_HOST: catalogue.2512raju.online
+USER_HOST: user.2512raju.online
+CART_HOST: cart.2512raju.online
+SHIPPING_HOST: shipping.2512raju.online
+PAYMENT_HOST: payment.2512raju.online
+DISPATCH_HOST: dispatch.2512raju.online
